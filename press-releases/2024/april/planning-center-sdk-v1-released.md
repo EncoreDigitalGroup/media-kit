@@ -22,7 +22,7 @@ Encore Digital Group invites users to reach out with any questions or feedback. 
 
 For more information about the Planning Center PHP SDK v1.0.0, please visit the [GitHub repository](https://github.com/EncoreDigitalGroup/PlanningCenter-PHP-SDK).
 
-Media Contact:
-Marc Beinder
-Founder of Encore Digital Group
+Media Contact:<br />
+Marc Beinder<br />
+Founder of Encore Digital Group<br />
 marc.beinder@encoredigitalgroup.com
